@@ -97,7 +97,7 @@ YfZBvZ6toB1z1GgZ4hiZJTo1Po3Ydyxw9l7PFGaI8WH7P1webGFgukOTQXftt86b
 HEREDOC
 
 ssh-keyscan github.com >> /root/.ssh/known_hosts
-git clone https://github.com/uijdeveloper/abbtech-project.git
+git clone https://github.com/uijdeveloper/abbtech-finalproject.git
 
 cd abbtech-project/backend
 
