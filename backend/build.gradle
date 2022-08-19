@@ -12,7 +12,7 @@ plugins {
     id 'jacoco'
 }
 
-group = 'az.phonebook'
+group = 'ulviibadov'
 version = "$projectVersion"
 sourceCompatibility = "$sourceCompatibility"
 
